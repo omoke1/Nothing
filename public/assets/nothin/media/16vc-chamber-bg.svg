@@ -1,0 +1,29 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none">
+  <rect width="1920" height="1080" fill="#080808"/>
+  <!-- Perspective architectural grid lines -->
+  <line x1="0" y1="0" x2="420" y2="220" stroke="rgba(255,255,255,0.14)" stroke-width="1"/>
+  <line x1="1920" y1="0" x2="1500" y2="220" stroke="rgba(255,255,255,0.14)" stroke-width="1"/>
+  <line x1="0" y1="1080" x2="420" y2="780" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+  <line x1="1920" y1="1080" x2="1500" y2="780" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+  <rect x="420" y="220" width="1080" height="560" fill="#030303" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+  <!-- Structural vertical columns -->
+  <line x1="220" y1="0" x2="220" y2="885" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <line x1="1700" y1="0" x2="1700" y2="885" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <line x1="0" y1="780" x2="1920" y2="780" stroke="rgba(255,255,255,0.25)" stroke-width="1"/>
+  <!-- Dark polished architectural floor -->
+  <rect x="0" y="780" width="1920" height="300" fill="url(#floorGrad)"/>
+  <line x1="960" y1="780" x2="960" y2="1080" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <line x1="690" y1="780" x2="480" y2="1080" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <line x1="1230" y1="780" x2="1440" y2="1080" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Architectural telemetry markings -->
+  <text x="64" y="72" fill="rgba(255,255,255,0.45)" font-family="monospace" font-size="14" letter-spacing="3">16VC // DEAL ROOM &amp; COMPUTE ARCHITECTURE</text>
+  <text x="1856" y="72" fill="rgba(255,255,255,0.45)" font-family="monospace" font-size="14" letter-spacing="3" text-anchor="end">LONDON WC2B 6NH // 51.5174° N</text>
+  <text x="64" y="756" fill="rgba(255,255,255,0.35)" font-family="monospace" font-size="12" letter-spacing="2">STAGE: PRE-SEED &amp; SEED // CHEQUE: $100K–$2M</text>
+  <text x="1856" y="756" fill="rgba(255,255,255,0.35)" font-family="monospace" font-size="12" letter-spacing="2" text-anchor="end">STUDIO CO-BUILD: UP TO $500K SAVED</text>
+  <defs>
+    <linearGradient id="floorGrad" x1="960" y1="780" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#111111"/>
+    </linearGradient>
+  </defs>
+</svg>

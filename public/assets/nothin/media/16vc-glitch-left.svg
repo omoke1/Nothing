@@ -1,0 +1,36 @@
+<svg width="904" height="740" viewBox="0 0 904 740" preserveAspectRatio="xMidYMid slice" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="904" height="740" fill="#080808"/>
+  <defs>
+    <pattern id="grid-gl-left" width="45.2" height="45.2" patternUnits="userSpaceOnUse">
+      <path d="M 45.2 0 L 0 0 0 45.2" fill="none" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="904" height="740" fill="url(#grid-gl-left)"/>
+
+  <!-- Safe Inner Architectural Box (generous margin for parallax and responsive breakpoints) -->
+  <rect x="64" y="68" width="776" height="604" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity="0.38" stroke-width="1.5"/>
+  <rect x="82" y="86" width="740" height="568" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/>
+  <line x1="82" y1="158" x2="822" y2="158" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+  <line x1="82" y1="572" x2="822" y2="572" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Top Header -->
+  <rect x="108" y="106" width="184" height="32" fill="#FFFFFF"/>
+  <text x="200" y="127" fill="#000000" font-family="monospace" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="2">01 // CAPITAL</text>
+  <text x="796" y="127" fill="#FFFFFF" fill-opacity="0.8" font-family="monospace" font-size="14" text-anchor="end" letter-spacing="2">ROLLING SPV · LDN</text>
+
+  <!-- Center Graphic & Primary Cheque Metric -->
+  <circle cx="452" cy="365" r="158" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1.2" stroke-dasharray="6 6"/>
+  <circle cx="452" cy="365" r="122" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1.2"/>
+
+  <text x="452" y="255" fill="#FFFFFF" fill-opacity="0.65" font-family="monospace" font-size="15" text-anchor="middle" letter-spacing="4">[ DIRECT CHEQUE DEPLOYMENT ]</text>
+  <text x="452" y="368" fill="#FFFFFF" font-family="sans-serif" font-size="92" font-weight="700" text-anchor="middle" letter-spacing="-3">$100K–$2M</text>
+
+  <rect x="232" y="408" width="440" height="44" fill="#121212" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.2"/>
+  <text x="452" y="435" fill="#FFFFFF" font-family="monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="3">PRE-SEED &amp; SEED · AI &amp; DEEP TECH</text>
+
+  <text x="452" y="502" fill="#FFFFFF" fill-opacity="0.65" font-family="monospace" font-size="13" text-anchor="middle" letter-spacing="2">FAST CONVICTION · TECHNICAL FOUNDERS · GLOBAL SCALE</text>
+
+  <!-- Bottom Telemetry Bar -->
+  <text x="108" y="618" fill="#FFFFFF" fill-opacity="0.75" font-family="monospace" font-size="13" letter-spacing="2">16VC LIMITED // UK CO. 16224768</text>
+  <text x="796" y="618" fill="#FFFFFF" font-family="monospace" font-size="13" font-weight="700" text-anchor="end" letter-spacing="2">16VC.CO ↗</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1600" height="2000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2000" preserveAspectRatio="xMidYMid slice" fill="none">
+    <rect width="1600" height="2000" fill="#090909"/>
+    
+      <g stroke="rgba(255,255,255,0.11)" stroke-width="1.5">
+        <line x1="100" y1="0" x2="100" y2="2000"/><line x1="200" y1="0" x2="200" y2="2000"/><line x1="300" y1="0" x2="300" y2="2000"/><line x1="400" y1="0" x2="400" y2="2000"/><line x1="500" y1="0" x2="500" y2="2000"/><line x1="600" y1="0" x2="600" y2="2000"/><line x1="700" y1="0" x2="700" y2="2000"/><line x1="800" y1="0" x2="800" y2="2000"/><line x1="900" y1="0" x2="900" y2="2000"/><line x1="1000" y1="0" x2="1000" y2="2000"/><line x1="1100" y1="0" x2="1100" y2="2000"/><line x1="1200" y1="0" x2="1200" y2="2000"/><line x1="1300" y1="0" x2="1300" y2="2000"/><line x1="1400" y1="0" x2="1400" y2="2000"/><line x1="1500" y1="0" x2="1500" y2="2000"/>
+        <line x1="0" y1="100" x2="1600" y2="100"/><line x1="0" y1="200" x2="1600" y2="200"/><line x1="0" y1="300" x2="1600" y2="300"/><line x1="0" y1="400" x2="1600" y2="400"/><line x1="0" y1="500" x2="1600" y2="500"/><line x1="0" y1="600" x2="1600" y2="600"/><line x1="0" y1="700" x2="1600" y2="700"/><line x1="0" y1="800" x2="1600" y2="800"/><line x1="0" y1="900" x2="1600" y2="900"/><line x1="0" y1="1000" x2="1600" y2="1000"/><line x1="0" y1="1100" x2="1600" y2="1100"/><line x1="0" y1="1200" x2="1600" y2="1200"/><line x1="0" y1="1300" x2="1600" y2="1300"/><line x1="0" y1="1400" x2="1600" y2="1400"/><line x1="0" y1="1500" x2="1600" y2="1500"/><line x1="0" y1="1600" x2="1600" y2="1600"/><line x1="0" y1="1700" x2="1600" y2="1700"/><line x1="0" y1="1800" x2="1600" y2="1800"/><line x1="0" y1="1900" x2="1600" y2="1900"/>
+      </g>
+      <!-- Isometric Co-Building Cube Architecture -->
+      <polygon points="800,560 1240,810 1240,1310 800,1560 360,1310 360,810" fill="rgba(255,255,255,0.04)" stroke="#FFFFFF" stroke-width="5"/>
+      <polygon points="800,710 1110,890 1110,1230 800,1410 490,1230 490,890" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="2.5" stroke-dasharray="10 8"/>
+      <line x1="800" y1="560" x2="800" y2="1060" stroke="rgba(255,255,255,0.4)" stroke-width="2.5" stroke-dasharray="8 8"/>
+      <line x1="800" y1="1060" x2="1240" y2="810" stroke="#FFFFFF" stroke-width="4"/>
+      <line x1="800" y1="1060" x2="360" y2="810" stroke="#FFFFFF" stroke-width="4"/>
+      <line x1="800" y1="1060" x2="800" y2="1560" stroke="#FFFFFF" stroke-width="4"/>
+      <circle cx="800" cy="1060" r="150" fill="#050505" stroke="#FFFFFF" stroke-width="4"/>
+      <text x="800" y="1048" fill="#FFFFFF" font-family="monospace" font-size="34" font-weight="bold" text-anchor="middle" letter-spacing="3">CO-BUILD</text>
+      <text x="800" y="1095" fill="rgba(255,255,255,0.7)" font-family="monospace" font-size="22" text-anchor="middle" letter-spacing="2">ENG · PRODUCT · GTM</text>
+    
+  </svg>
